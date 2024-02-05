@@ -161,7 +161,7 @@ export default function Home() {
                 href="https://drive.google.com/file/d/1auo0IYaEzbgywBeHc6TaN7__BYMuKFmu/view?usp=sharing"
                 target="_blank" rel="noreferrer">
 
-                <button type='button'>Resume</button>
+                <button type='button' className='button'>Resume</button>
               </a>   
               
 
